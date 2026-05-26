@@ -232,7 +232,7 @@ git push origin feature/my-feature
 
 ## License
 
-MIT © [jayfelipe](https://github.com/jayfelipe)
+MIT © [jayfelipe](https://github.com/jayfelipe/tracepilot-app)
 
 ---
 
